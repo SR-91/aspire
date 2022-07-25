@@ -457,6 +457,41 @@ text-decoration: none;
     line-height: 1.6;
     color: #fff;
 }
+.image{
+    position:relative;
+    width:100%;
+   
+}
+.heading{
+    text-align: center;
+    position:absolute;
+    top:4%;
+    left:35%;
+    font-weight:bold;
+    
+}
+.lowheading{
+    position:absolute;
+    top:24%;
+    left:33%;
+    font-weight:bold;
+  
+}
+.topside{
+    position:absolute;
+    top:12%;
+    left:2%;
+    font-weight:bold;
+    
+
+}
+.downside{
+    position:absolute;
+    top:28%;
+    left:34%;
+    font-weight:bold;
+    
+}
 /* // X-Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) { }
 
