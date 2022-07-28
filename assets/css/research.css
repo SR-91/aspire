@@ -462,3 +462,16 @@ text-decoration: none;
 
 /* // XX-Large devices (larger desktops, 1400px and up) */
 @media (min-width: 1400px) { }
+.a{
+                color:darkred;
+                text-align: center;
+            }
+            .b{
+                color:blue;
+            }
+            .c{
+                color:orangered;
+            }
+            pre{
+                background-color:lightblue;
+            }
