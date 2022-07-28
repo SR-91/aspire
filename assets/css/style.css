@@ -492,6 +492,31 @@ text-decoration: none;
     font-weight:bold;
     
 }
+.subhead1{
+    position:absolute;
+    top:13%;
+    left:2%;
+    font-weight:bold;
+}
+.subhead2{
+    position:absolute;
+    top:58%;
+    left:2%;
+    font-weight:bold;
+}
+.uppara{
+    position:absolute;
+    top:18%;
+    left:2%;
+    font-weight:bold;
+}
+.downpara{
+    position:absolute;
+    top:64%;
+    left:2%;
+    font-weight:bold;
+
+}
 /* // X-Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) { }
 
