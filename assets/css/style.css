@@ -522,3 +522,21 @@ text-decoration: none;
 
 /* // XX-Large devices (larger desktops, 1400px and up) */
 @media (min-width: 1400px) { }
+h1,a{
+                color:coral;
+            }
+            .i
+            {
+               list-style-type: none;
+               position: relative;
+               padding-left: 15px;
+               color:brown;
+            }
+            .i::before{
+                content: "\25BA \0020";
+                font-size: 6px;
+                position: absolute;
+                top: 5px;
+                left:-10px;
+                color:brown;
+            }
