@@ -517,11 +517,19 @@ text-decoration: none;
     font-weight:bold;
 
 }
-/* // X-Large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) { }
-
-/* // XX-Large devices (larger desktops, 1400px and up) */
-@media (min-width: 1400px) { }
+.a{
+                color:darkred;
+                text-align: center;
+            }
+            .b{
+                color:blue;
+            }
+            .c{
+                color:orangered;
+            }
+            pre{
+                background-color:lightblue;
+            }
 .hel,.hel1{
                 color:coral;
             }
@@ -540,3 +548,9 @@ text-decoration: none;
                 left:-10px;
                 color:brown;
             }
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { }
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { }
+
