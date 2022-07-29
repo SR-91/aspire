@@ -522,7 +522,7 @@ text-decoration: none;
 
 /* // XX-Large devices (larger desktops, 1400px and up) */
 @media (min-width: 1400px) { }
-h1,a{
+.hel,.hel1{
                 color:coral;
             }
             .i
